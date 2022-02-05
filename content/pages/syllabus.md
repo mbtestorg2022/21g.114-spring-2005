@@ -25,13 +25,66 @@ Grading
 
 A = 100-94; A- = 93-90; B+ = 89-87; B = 86-83; B- = 82-80; C+ = 79-77; C = 76-73; C- = 72-70; D = 69-60; F = 59-0
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Performance | 20% (Attendance 5%, Promptness 3%, Preparedness 5%, and Participation 7%) |
-| Written Assignments | 30% (Exercises will be posted on the server) |
-| 5 Bi-weekly Quizzes | 20% |
-| 6 Presentations | 15% (5-minute presentations) |
-| Final Essay and Presentation | 15% (A 5-page double-spaced typewritten essay using Microsoft® Word; 16-point font and 1-inch margins. 10-minute presentation. Instructions on how to input Chinese characters using _pinyin_ will be posted on the server.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Performance
+{{< tdclose >}}
+{{< tdopen >}}
+20% (Attendance 5%, Promptness 3%, Preparedness 5%, and Participation 7%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30% (Exercises will be posted on the server)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 Bi-weekly Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15% (5-minute presentations)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay and Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15% (A 5-page double-spaced typewritten essay using Microsoft® Word; 16-point font and 1-inch margins. 10-minute presentation. Instructions on how to input Chinese characters using _pinyin_ will be posted on the server.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance and promptness is assumed; more than three unexcused absences (a week's worth) lowers your grade one letter; significant lateness will add up to absences. **Absences will count as excused only if you provide a doctor's note or a note from your academic advisor to the instructor.**
 
